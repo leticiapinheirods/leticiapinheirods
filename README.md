@@ -5,9 +5,6 @@
 <br>
 <br>
 
-## Stats
-
-<main>
   <img alt="Leticia Pinheiro Github stats" src="https://github-readme-stats.vercel.app/api?username=Leti1225&show_icons=true&theme=date_night"/> 
   <img alt="Leticia Pinheiro top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leti1225&layout=compact&theme=date_night"/>
 </main>
