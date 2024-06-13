@@ -5,8 +5,6 @@
 <br>
 <br>
 
-
-<main style="display:flex; gap:30px">
   <img alt="Leticia Pinheiro Github stats" src="https://github-readme-stats.vercel.app/api?username=Leti1225&show_icons=true&theme=date_night"/> 
   <img alt="Leticia Pinheiro top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leti1225&layout=compact&theme=date_night"/>
 </main>
@@ -31,5 +29,3 @@
     <img alig="center" alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff"/>
 </div>
 <br>
-
-
