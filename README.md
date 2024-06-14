@@ -4,7 +4,7 @@
 
 <br>
 
-## My States
+## Stats
 
 <div align="center">
   <img alt="Leticia Pinheiro Github stats" src="https://github-readme-stats.vercel.app/api?username=Leti1225&show_icons=true&theme=date_night"/> 
@@ -12,7 +12,7 @@
 </div>
 
 
-## Languagens
+## Languages
 
 <div>
     <img alig="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
