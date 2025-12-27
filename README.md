@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=f08080&section=header&reversal=false&textBg=false&fontAlignY=0&descAlignY=59">
 
 <h1 align="center">
-    <em>⋅˚₊‧ ୨୧ ‧₊˚ ⋅ Hello guys, I'm Leticia Pinheiro!</em>
+    <em>Hello guys, I'm Leticia Pinheiro!</em>
 </h1>
 
 ## 🌸 About me
@@ -22,7 +22,7 @@
   </div>
 
 ## 🌐 Connect with me
-<div align="center">
+<div>
     <a href="https://www.linkedin.com/in/leticia-pinheiro-0794262ba/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
