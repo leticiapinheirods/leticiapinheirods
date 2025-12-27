@@ -1,17 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=f08080&section=header&reversal=false&textBg=false&fontAlignY=0&descAlignY=59">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=f08080&center=true&vCenter=true&random=false&width=1000&lines=My+name+is+Leticia;I'm+19+years+old;I'm+a+Computer+Science+student;I'm+from+Brazil;Hello+devs,+welcome!)](https://git.io/typing-svg)
-
+<h1 align="center">°❀⋆.ೃ࿔*:･ Hello guys, I'm Leticia Pinheiro!</h1>
 <br>
 
-## Stats
+## 🌸 About me
+- I am studying Computer Science 💻
+- I am currently interning in the field of process automation in geotechnologies 🗺️
+- I worked as a project manager for the development of a robotic assistant at my university 🤖
 
-<div align="center">
-  <img alt="Leticia Pinheiro Github stats" src="https://github-readme-stats.vercel.app/api?username=leticiapinheirods&show_icons=true&theme=date_night"/> 
-</div>
 
-
-## Languages
+## Tools
 
 <div>
     <img alig="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
