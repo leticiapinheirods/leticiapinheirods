@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=f08080&section=header&reversal=false&textBg=false&fontAlignY=0&descAlignY=59">
 
-<h1 align="center">°❀⋆.ೃ࿔*:･ Hello guys, I'm Leticia Pinheiro!</h1>
-<br>
+<h1 align="center">⋅˚₊‧ ୨୧ ‧₊˚ ⋅ Hello guys, I'm Leticia Pinheiro!</h1>
 
 ## 🌸 About me
 - I am studying Computer Science 💻
