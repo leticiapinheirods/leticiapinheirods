@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/04/28/99/0428993a231aae4c469e91e1bd339f54.jpg" width="400px" />
+  <img src="https://i.pinimg.com/1200x/ba/aa/22/baaa2217718bbd615bb475156e931396.jpg" width="400px" />
 </div>
 
 ## ⚙️ Tools
