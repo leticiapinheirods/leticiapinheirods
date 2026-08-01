@@ -9,7 +9,7 @@
   <img src="https://i.pinimg.com/1200x/ba/aa/22/baaa2217718bbd615bb475156e931396.jpg" width="400px" />
 </div>
 
-## ⚙️ Tools
+## Tools
 
 <div align="center">
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -25,7 +25,7 @@
     <img alt="c++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
 
-## 🛜 Contacts
+## Contacts
 <div>
     <a href="https://www.linkedin.com/in/leticia-pinheiro-0794262ba/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
